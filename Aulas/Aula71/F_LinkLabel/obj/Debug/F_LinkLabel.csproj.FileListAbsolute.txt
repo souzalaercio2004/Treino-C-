@@ -1,0 +1,10 @@
+C:\C#\Aulas\Aula71\F_LinkLabel\bin\Debug\F_LinkLabel.exe.config
+C:\C#\Aulas\Aula71\F_LinkLabel\bin\Debug\F_LinkLabel.exe
+C:\C#\Aulas\Aula71\F_LinkLabel\bin\Debug\F_LinkLabel.pdb
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.csproj.AssemblyReference.cache
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.Form1.resources
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.Properties.Resources.resources
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.csproj.GenerateResource.cache
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.exe
+C:\C#\Aulas\Aula71\F_LinkLabel\obj\Debug\F_LinkLabel.pdb

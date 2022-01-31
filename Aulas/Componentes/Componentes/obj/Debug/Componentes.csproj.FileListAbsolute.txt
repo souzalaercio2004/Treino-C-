@@ -1,0 +1,11 @@
+C:\C#\Aulas\Componentes\Componentes\bin\Debug\Componentes.exe.config
+C:\C#\Aulas\Componentes\Componentes\bin\Debug\Componentes.exe
+C:\C#\Aulas\Componentes\Componentes\bin\Debug\Componentes.pdb
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.exe
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.pdb
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.F_Veiculos.resources
+C:\C#\Aulas\Componentes\Componentes\obj\Debug\Componentes.f_Principal.resources

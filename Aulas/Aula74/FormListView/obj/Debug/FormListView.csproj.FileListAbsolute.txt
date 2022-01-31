@@ -1,0 +1,11 @@
+C:\C#\Aulas\Aula74\FormListView\bin\Debug\FormListView.exe.config
+C:\C#\Aulas\Aula74\FormListView\bin\Debug\FormListView.exe
+C:\C#\Aulas\Aula74\FormListView\bin\Debug\FormListView.pdb
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.csproj.AssemblyReference.cache
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.Form1.resources
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.lb_produtos.resources
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.Properties.Resources.resources
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.csproj.GenerateResource.cache
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.exe
+C:\C#\Aulas\Aula74\FormListView\obj\Debug\FormListView.pdb

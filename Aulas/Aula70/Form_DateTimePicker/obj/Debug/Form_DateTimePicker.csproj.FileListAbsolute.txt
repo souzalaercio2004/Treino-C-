@@ -1,0 +1,10 @@
+C:\C#\Aulas\Aula70\Form_DateTimePicker\bin\Debug\Form_DateTimePicker.exe.config
+C:\C#\Aulas\Aula70\Form_DateTimePicker\bin\Debug\Form_DateTimePicker.exe
+C:\C#\Aulas\Aula70\Form_DateTimePicker\bin\Debug\Form_DateTimePicker.pdb
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.csproj.AssemblyReference.cache
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.F_DateTimePicker.resources
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.Properties.Resources.resources
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.csproj.GenerateResource.cache
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.exe
+C:\C#\Aulas\Aula70\Form_DateTimePicker\obj\Debug\Form_DateTimePicker.pdb
